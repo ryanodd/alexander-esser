@@ -1,0 +1,2 @@
+[05-Mar-2025 19:27:14 UTC] PHP Warning:  Undefined property: stdClass::$id in /Users/ryan/Documents/personal-repos/alexander-esser/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 735
+[05-Mar-2025 19:27:14 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /Users/ryan/Documents/personal-repos/alexander-esser/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 738
